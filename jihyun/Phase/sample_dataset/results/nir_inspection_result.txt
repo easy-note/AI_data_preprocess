@@ -1,0 +1,19 @@
+Number of NIR files reviewed
+5
+
+Error: error_no_video
+
+Error: error_file_name
+/Users/jihyunlee/Desktop/data-preprossing/nir/R207_NIR_ch1_video_03_0 .csv
+
+Error: error_column_name
+/Users/jihyunlee/Desktop/data-preprossing/nir/R001_NIR_ch1_video_03_2.csv, start 
+
+Error: error_time_overlap
+/Users/jihyunlee/Desktop/data-preprossing/nir/R022_NIR_ch1_video_01_2.csv, 00:28:14:09
+/Users/jihyunlee/Desktop/data-preprossing/nir/R022_NIR_ch1_video_01_2.csv, 01:07:36:03
+
+Error: error_other_char
+
+Error: error_cannot_read
+/Users/jihyunlee/Desktop/data-preprossing/nir/R094_NIR_ch1_video_01_2.csv

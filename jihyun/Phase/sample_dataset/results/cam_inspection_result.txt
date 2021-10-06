@@ -1,0 +1,16 @@
+Number of CAM files reviewed
+4
+
+Error: error_no_video
+
+Error: error_file_name
+
+Error: error_column_name
+/Users/jihyunlee/Desktop/data-preprossing/cam/R117_CAMIO_ch1_video_03_0.csv, 
+
+Error: error_time_overlap
+
+Error: error_other_char
+/Users/jihyunlee/Desktop/data-preprossing/cam/R202_CAMIO_ch1_video_05_3.csv
+
+Error: error_cannot_read

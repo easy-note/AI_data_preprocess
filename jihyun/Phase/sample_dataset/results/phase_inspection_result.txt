@@ -1,0 +1,26 @@
+Number of Phase files reviewed
+6
+
+Error: error_no_video
+
+Error: error_frame_inconsistency
+
+Error: no_annotator
+
+Error: many_annotator
+
+Error: column_sequence
+
+Error: sheet_no_data
+
+Error: sheet_name
+/Users/jihyunlee/Desktop/data-preprossing/phase/R000436_phase_consensus.xlsx, ch. 1. video 2
+
+Error: other_char
+/Users/jihyunlee/Desktop/data-preprossing/phase/R000007_phase_consensus.xlsx, <ReadOnlyCell 'ch1_video_04'.A38907>, ch1_video_01
+/Users/jihyunlee/Desktop/data-preprossing/phase/R000206_phase_consensus.xlsx, <ReadOnlyCell 'ch1_video_01'.I123622>,  
+/Users/jihyunlee/Desktop/data-preprossing/phase/R000436_phase_consensus.xlsx, <ReadOnlyCell 'ch1_video_06'.A2>,  
+/Users/jihyunlee/Desktop/data-preprossing/phase/R000436_phase_consensus.xlsx, <ReadOnlyCell 'ch1_video_08'.A2>,  
+/Users/jihyunlee/Desktop/data-preprossing/phase/R000436_phase_consensus.xlsx, <ReadOnlyCell 'ch1_video_10'.A2>,  
+
+Error: error_cannot_read
